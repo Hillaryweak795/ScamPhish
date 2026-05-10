@@ -2,6 +2,8 @@
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
 ### Important Notice
+Make 2 Folders name Pictures , saved_locations 
+
 Made By T-D Organistaion (Team Dark)
 
 # What is ScamPhish?
